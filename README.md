@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasdegener&label=Profile%20views&color=00d9ff&style=flat" alt="jonasdegener" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce solutions**
+- 🔭 I’m currently working on **Web & Cloud**
 
-- 🌱 I’m currently learning **Vue.js & E-Commerce**
+- 🌱 I’m currently learning **Vue.js V.3 & Nuxt.js V.3**
 
 - 🤝 I’m looking for help with **the perfect recipes with cheese**
 
-- 💬 Ask me about **hiking, tech, e-commerce and music**
+- 💬 Ask me about **hiking, tech, web and music**
 
 - 📫 How to reach me **jonas.degener@fruchtec.de**
 
