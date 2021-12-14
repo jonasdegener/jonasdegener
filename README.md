@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **hiking, tech, e-commerce and music**
 
-- 📫 How to reach me **jjdegener@gmail.com**
+- 📫 How to reach me **jonas.degener@fruchtec.de**
 
 - ⚡ Fun fact **Vue.js > React > Any other framework > Angular**
 
